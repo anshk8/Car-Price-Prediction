@@ -1,0 +1,1 @@
+I decided to do this project because I want to get familiar with more Machine Learning Algorithms and compare how they perform. I am comparing Linear Regression, Lasso and LightGBM. I have yet to train the data on Lasso and LightGBM and am planning to finish this project after my exams :).
